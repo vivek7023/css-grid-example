@@ -98,12 +98,15 @@ main{
 .lefttop{
     background-color: rgb(27, 128, 94);
     grid-area: lefttop;
+    border-radius: 20px;
 
 }
 
 .leftbottom{
     background-color: rgb(175, 83, 205);
     grid-area: leftbottom;
+    border-radius: 20px;
+
 
 }
 
